@@ -1,0 +1,7 @@
+app.py
+requirements.txt
+train.csv
+__pycache__/streamlit.cpython-314.pyc
+test_projet_energie.ipynb
+streamlit.py
+eco2mix-regional-cons-def.csv
